@@ -9,3 +9,5 @@ Before you can start making your own software, you need to get your computer rea
 - Version Control - A tool that will save the history/versions of your codebase. Tools like [Git](https://git-scm.com/) keep track of changes to your code. This is helpful for fixing mistakes and working with others. [GitHub](https://github.com/) and [GitLab](https://about.gitlab.com/) are two places you can use Git for free.
 
 Some people like to use an Integrated Development Environment (IDE) which puts all these tools together. Some well-known IDEs are Visual Studio, IntelliJ IDEA, and Eclipse. Choose one that works well with the programming language you've picked.
+
+
